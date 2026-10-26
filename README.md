@@ -2,8 +2,7 @@
 # Hello DevOps - Flask Docker App
 
 ## Project Description
-A simple Python Flask web application
-containerized using Docker.
+A simple Python Flask web application containerized using Docker.
 
 ## Project Structure
 - app/main.py
@@ -15,6 +14,7 @@ containerized using Docker.
 
 ## Prerequisites
 - Docker Desktop
+- Git
 - A web browser
 
 ## Build the Docker Image
@@ -45,6 +45,7 @@ docker rm devops-web
 ```
 
 ## Screenshots
+
 ### Running Container
 ![Running container](assets/running_container.png)
 
